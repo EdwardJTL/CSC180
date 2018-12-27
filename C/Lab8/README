@@ -1,0 +1,6 @@
+type "cat compile.sh" to see the compilation commands
+
+to run: enter the commands exactly as in compile.sh
+or type "sh compile.sh"
+
+(copy these files to a directory in your homedir first)
